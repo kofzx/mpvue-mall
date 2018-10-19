@@ -93,8 +93,5 @@ export default {
   margin-bottom: 5px;
   border: 1px solid #ccc;
 }
-.test {
-  color: #000000;
-}
 
 </style>
